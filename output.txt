@@ -1,0 +1,45 @@
+============================================================
+Grok 注册机
+============================================================
+[*] 正在初始化...
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/32f0545d699e0e0e.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/37acb863bbd0f0e2.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/b0471b5026f7d4ad.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/2e24c79a691ed9da.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/turbopack-65952f5a754df1ac.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/b8d7e474c2afe7a9.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/f88a31c2680cb79a.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/a558f990b7b0c055.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/5960a5aaad9e2f31.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/90f661665b7e187d.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/b9b46099b590b4e1.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/e5bb648949591e16.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/0707464098a67842.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/abddee524d73b105.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/b51de23113c502a3.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/e2ea33f2af812afa.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/aa2cf9f1777f8ac2.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/fecce191f6d1d23b.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/f217339edf051a9c.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/93d5a4b267ffea9c.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/f7a6284e73f059ea.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/1b9835a69743cada.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/da9b9bcc611f2bc7.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/b833a79cdd170fa0.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/aef93f25d8db2750.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/d8ec8adfcd243773.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/d06a0b48f60d2499.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/f6be1598bc03e6dd.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/cf8587f683865ab2.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/bd87ee41a69fe15f.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/f56b52bb1781f992.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/aa1bc62e8a8c35c5.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/9d0171f70cd22e8f.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/bf0f13a8cf72722e.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/a193c82d32321d0e.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/da0cf393bf987b41.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/3fee93caa2df0326.js
+[debug] JS URL: https://accounts.x.ai/_next/static/chunks/bf58f5867e1b1f2c.js
+[+] Action ID: 7f8d37648f6ccf5f8df79261c9422dc57ecc661fc2
+
+并发数 (默认8): 注册数量 (默认100): 
