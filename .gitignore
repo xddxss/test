@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+keys/
+output.txt
+debug_response.txt
+data/
